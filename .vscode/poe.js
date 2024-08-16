@@ -1,4 +1,4 @@
-const boton = document.getElementById("Picale")
+const boton = document.getElementById("picale")
 boton.onclick = () => {
     console.log("Apoco si le picaste?")
 }
