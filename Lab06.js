@@ -37,9 +37,6 @@ const requisitos = () => {
         strengthMessage += 'Falta un carácter especial. ';
     }
 
-    // Asegúrate de tener un elemento con id="password-strength" en tu HTML
-    // const passwordStrength = document.getElementById('password-strength');
-    // passwordStrength.textContent = strengthMessage;
 
     return contra1.length >= 8 && /[A-Z]/.test(contra1) && /[a-z]/.test(contra1) &&
            /[0-9]/.test(contra1) && /[\W_]/.test(contra1);
