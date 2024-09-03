@@ -8,7 +8,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Lab 01.html",
-            "file": "c:\\Users\\gaelc\\Labs\\Construccion-de-Software\\Lab6.html"
+            "file": "c:\\Users\\gaelc\\RewardsSystem\\MiInformacion.html"
         }
     ]
 }
+
